@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EfvHg0vonNUB5XKK3wjA50TMIE5eC7AuuBISB4YxuqmYvDWID64fEZPXBco6uV20+M1Fx0THicb5rcwrou4NuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vdovi\\Desktop\\КПО\\mini_hw1\\mini_hw1\\mini_hw1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vdovi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.1\\microsoft.extensions.dependencyinjection.9.0.1.nupkg.sha512",
+    "C:\\Users\\vdovi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
